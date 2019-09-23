@@ -9,7 +9,7 @@ Admin is required to publish users’ posts.
 [Y] Posts’ body understand markdown syntax and could render properly <br>
 [Y] Admin could see a list of created posts Admin could publish or unpublish created posts <br>
 
-##Optional features 
+## Optional features 
 [Y] Only published posts would be display in public listing page <br>
 [N] Admin could see highlighting unpublished posts in list of all posts <br> 
 [Y] Admin could filter/order posts by date or status Admin could schedule post publishing. E.g I want publish this post automatically in tomorrow 9AM
