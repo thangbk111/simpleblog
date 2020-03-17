@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb5b5ce4-d9b6-4002-8217-1d28d808e469" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/simpleblog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/simpleblog.iml" afterDir="false" />
+    <list default="true" id="bb5b5ce4-d9b6-4002-8217-1d28d808e469" name="Default Changelist" comment="add idea">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <list id="34f4887c-50d3-4db6-8ec4-a79f6837e3f8" name="readme" comment="">
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,6 +151,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bb5b5ce4-d9b6-4002-8217-1d28d808e469" name="Default Changelist" comment="" />
+      <changelist id="34f4887c-50d3-4db6-8ec4-a79f6837e3f8" name="readme" comment="" />
       <created>1568879014387</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -160,7 +160,16 @@
       <workItem from="1569121445902" duration="8215000" />
       <workItem from="1569230549074" duration="7547000" />
       <workItem from="1584422498860" duration="1365000" />
+      <workItem from="1584424014648" duration="505000" />
     </task>
+    <task id="LOCAL-00001" summary="readme">
+      <created>1584424237230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584424237230</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +180,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -179,17 +190,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="add idea" />
+    <MESSAGE value="readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="2" key="CommitChangelistDialog2" timestamp="1584423349639">
+    <state x="223" y="2" key="CommitChangelistDialog2" timestamp="1584424546947">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="223" y="2" key="CommitChangelistDialog2/0.0.1280.800/1280.-181.1920.1080@0.0.1280.800" timestamp="1584423349639" />
+    <state x="223" y="2" key="CommitChangelistDialog2/0.0.1280.800/1280.-181.1920.1080@0.0.1280.800" timestamp="1584424546947" />
+    <state x="128" y="69" key="MergeDialog" timestamp="1584424438930">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="128" y="69" key="MergeDialog/0.0.1280.800/1280.-181.1920.1080@0.0.1280.800" timestamp="1584424438930" />
     <state x="141" y="39" key="SettingsEditor" timestamp="1584423667031">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="141" y="39" key="SettingsEditor/0.0.1280.800/1280.-181.1920.1080@0.0.1280.800" timestamp="1584423667031" />
+    <state x="490" y="323" key="VCS.ChangelistChooser" timestamp="1584424488441">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="490" y="323" key="VCS.ChangelistChooser/0.0.1280.800/1280.-181.1920.1080@0.0.1280.800" timestamp="1584424488441" />
     <state x="1933" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1584422512328">
       <screen x="1280" y="-181" width="1920" height="1080" />
     </state>
@@ -198,5 +218,9 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800/1280.-181.1920.1080@0.0.1280.800" timestamp="1584422695986" />
+    <state x="0" y="166" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1584424419678">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="0" y="166" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1280.800/1280.-181.1920.1080@0.0.1280.800" timestamp="1584424419678" />
   </component>
 </project>
