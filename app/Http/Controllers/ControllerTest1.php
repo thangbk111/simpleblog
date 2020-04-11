@@ -21,6 +21,11 @@ class HomeController extends Controller
 
         // nearly fishnish my code
 
+        //add new
+
+
+        //add new 002
+
 
         $post = Post::find($request->all());
         return view('home.home', ['posts' => $posts]);
