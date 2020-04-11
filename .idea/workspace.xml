@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb5b5ce4-d9b6-4002-8217-1d28d808e469" name="Default Changelist" comment="add idea">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ControllerTest1.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ControllerTest1.php" afterDir="false" />
     </list>
-    <list id="34f4887c-50d3-4db6-8ec4-a79f6837e3f8" name="readme" comment="">
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-    </list>
+    <list id="34f4887c-50d3-4db6-8ec4-a79f6837e3f8" name="readme" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,6 +200,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="128" y="69" key="MergeDialog/0.0.1280.800/1280.-181.1920.1080@0.0.1280.800" timestamp="1584424438930" />
+    <state x="379" y="223" key="NewPhpClassDialog" timestamp="1586577724897">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="379" y="223" key="NewPhpClassDialog/0.0.1280.800@0.0.1280.800" timestamp="1586577724897" />
     <state x="141" y="39" key="SettingsEditor" timestamp="1584423667031">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
